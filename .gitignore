@@ -1,9 +1,5 @@
 # Editors
 
-## Built files
-src/**/*.js
-tests/**/*.js
-
 ## Intellij
 *.iml
 .idea
