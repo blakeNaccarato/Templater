@@ -18,3 +18,4 @@ export declare class Editor {
     registerCodeMirrorMode(): Promise<void>;
     updateEditorIntellisenseSetting(value: any): void;
 }
+//# sourceMappingURL=Editor.d.ts.map

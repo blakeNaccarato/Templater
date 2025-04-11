@@ -27,3 +27,4 @@ export declare class InternalModuleFile extends InternalModule {
     generate_tags(): string[] | null;
     generate_title(): string;
 }
+//# sourceMappingURL=InternalModuleFile.d.ts.map

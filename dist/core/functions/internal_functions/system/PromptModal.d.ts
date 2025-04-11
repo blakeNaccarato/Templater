@@ -16,3 +16,4 @@ export declare class PromptModal extends Modal {
     private resolveAndClose;
     openAndGetValue(resolve: (value: string) => void, reject: (reason?: TemplaterError) => void): Promise<void>;
 }
+//# sourceMappingURL=PromptModal.d.ts.map

@@ -6,3 +6,4 @@ export declare class InternalModuleFrontmatter extends InternalModule {
     create_dynamic_templates(): Promise<void>;
     teardown(): Promise<void>;
 }
+//# sourceMappingURL=InternalModuleFrontmatter.d.ts.map

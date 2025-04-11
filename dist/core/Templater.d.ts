@@ -40,3 +40,4 @@ export declare class Templater {
     static on_file_creation(templater: Templater, app: App, file: TAbstractFile): Promise<void>;
     execute_startup_scripts(): Promise<void>;
 }
+//# sourceMappingURL=Templater.d.ts.map

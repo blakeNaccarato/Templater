@@ -14,3 +14,4 @@ export declare abstract class TextInputSuggest<T> implements ISuggestOwner<T> {
     abstract renderSuggestion(item: T, el: HTMLElement): void;
     abstract selectSuggestion(item: T): void;
 }
+//# sourceMappingURL=suggest.d.ts.map

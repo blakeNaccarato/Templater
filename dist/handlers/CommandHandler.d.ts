@@ -7,3 +7,4 @@ export declare class CommandHandler {
     add_template_hotkey(old_template: string | null, new_template: string): void;
     remove_template_hotkey(template: string | null): void;
 }
+//# sourceMappingURL=CommandHandler.d.ts.map

@@ -44,3 +44,4 @@ export declare class Documentation {
     get_argument_documentation(module_name: ModuleName, function_name: string, argument_name: string): TpArgumentDocumentation | null;
 }
 export {};
+//# sourceMappingURL=TpDocumentation.d.ts.map

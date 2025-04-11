@@ -10,3 +10,4 @@ export declare class CursorJumper {
     };
     set_cursor_location(positions: EditorPosition[]): void;
 }
+//# sourceMappingURL=CursorJumper.d.ts.map

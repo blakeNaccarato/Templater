@@ -18,3 +18,4 @@ export declare class Autocomplete extends EditorSuggest<TpSuggestDocumentation> 
     getNumberOfArguments(args: object): number;
     updateAutocompleteIntellisenseSetting(value: IntellisenseRenderOption): void;
 }
+//# sourceMappingURL=Autocomplete.d.ts.map

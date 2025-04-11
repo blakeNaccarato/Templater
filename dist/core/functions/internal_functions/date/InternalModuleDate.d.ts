@@ -10,3 +10,4 @@ export declare class InternalModuleDate extends InternalModule {
     generate_weekday(): (format: string, weekday: number, reference?: string, reference_format?: string) => string;
     generate_yesterday(): (format?: string) => string;
 }
+//# sourceMappingURL=InternalModuleDate.d.ts.map

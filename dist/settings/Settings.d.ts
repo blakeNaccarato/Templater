@@ -45,3 +45,4 @@ export declare class TemplaterSettingTab extends PluginSettingTab {
     add_user_system_command_functions_setting(): void;
     add_donating_setting(): void;
 }
+//# sourceMappingURL=Settings.d.ts.map

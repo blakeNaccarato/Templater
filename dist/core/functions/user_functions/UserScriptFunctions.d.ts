@@ -8,3 +8,4 @@ export declare class UserScriptFunctions implements IGenerateObject {
     load_user_script_function(file: TFile, user_script_functions: Map<string, () => unknown>): Promise<void>;
     generate_object(): Promise<Record<string, unknown>>;
 }
+//# sourceMappingURL=UserScriptFunctions.d.ts.map

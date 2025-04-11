@@ -9,3 +9,4 @@ export declare class UserSystemFunctions implements IGenerateObject {
     generate_system_functions(config: RunningConfig): Promise<Map<string, (user_args?: Record<string, unknown>) => Promise<string>>>;
     generate_object(config: RunningConfig): Promise<Record<string, unknown>>;
 }
+//# sourceMappingURL=UserSystemFunctions.d.ts.map

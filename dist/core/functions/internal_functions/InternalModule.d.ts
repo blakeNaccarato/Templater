@@ -19,3 +19,4 @@ export declare abstract class InternalModule implements IGenerateObject {
     init(): Promise<void>;
     generate_object(new_config: RunningConfig): Promise<Record<string, unknown>>;
 }
+//# sourceMappingURL=InternalModule.d.ts.map

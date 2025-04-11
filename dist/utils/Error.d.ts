@@ -4,3 +4,4 @@ export declare class TemplaterError extends Error {
 }
 export declare function errorWrapper<T>(fn: () => Promise<T>, msg: string): Promise<T>;
 export declare function errorWrapperSync<T>(fn: () => T, msg: string): T;
+//# sourceMappingURL=Error.d.ts.map

@@ -9,3 +9,4 @@ export declare class InternalFunctions implements IGenerateObject {
     teardown(): Promise<void>;
     generate_object(config: RunningConfig): Promise<Record<string, unknown>>;
 }
+//# sourceMappingURL=InternalFunctions.d.ts.map

@@ -27,3 +27,4 @@ export declare function get_fn_params(func: (...args: unknown[]) => unknown): st
  * @returns A label HtmlElement (p | li)
  */
 export declare function append_bolded_label_with_value_to_parent(parent: HTMLElement, title: string, value: string): HTMLElement;
+//# sourceMappingURL=Utils.d.ts.map

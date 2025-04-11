@@ -8,3 +8,4 @@ export declare class UserFunctions implements IGenerateObject {
     constructor(plugin: TemplaterPlugin);
     generate_object(config: RunningConfig): Promise<Record<string, unknown>>;
 }
+//# sourceMappingURL=UserFunctions.d.ts.map

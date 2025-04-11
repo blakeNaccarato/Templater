@@ -16,3 +16,4 @@ export declare class FuzzySuggester extends FuzzySuggestModal<TFile> {
     insert_template(): void;
     create_new_note_from_template(folder?: TFolder): void;
 }
+//# sourceMappingURL=FuzzySuggester.d.ts.map

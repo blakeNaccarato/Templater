@@ -11,3 +11,4 @@ export declare class InternalModuleWeb extends InternalModule {
     generate_random_picture(): (size: string, query?: string, include_size?: boolean) => Promise<string>;
     generate_request(): (url: string, path?: string) => Promise<string>;
 }
+//# sourceMappingURL=InternalModuleWeb.d.ts.map

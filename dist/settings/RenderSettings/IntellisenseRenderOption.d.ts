@@ -26,3 +26,4 @@ export declare function shouldRenderParameters(render_setting: IntellisenseRende
  * @returns True if the Description Intellisense should render, otherwise false
  */
 export declare function shouldRenderDescription(render_setting: IntellisenseRenderOption): boolean;
+//# sourceMappingURL=IntellisenseRenderOption.d.ts.map

@@ -10,3 +10,4 @@ export declare class TJDocFileArgument {
     description: string;
     constructor(name: string, desc: string);
 }
+//# sourceMappingURL=TJDocFile.d.ts.map

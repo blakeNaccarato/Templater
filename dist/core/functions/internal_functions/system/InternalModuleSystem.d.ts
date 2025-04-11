@@ -9,3 +9,4 @@ export declare class InternalModuleSystem extends InternalModule {
     generate_prompt(): (prompt_text: string, default_value: string, throw_on_cancel: boolean, multi_line: boolean) => Promise<string | null>;
     generate_suggester(): <T>(text_items: string[] | ((item: T) => string), items: T[], throw_on_cancel: boolean, placeholder: string, limit?: number) => Promise<T>;
 }
+//# sourceMappingURL=InternalModuleSystem.d.ts.map

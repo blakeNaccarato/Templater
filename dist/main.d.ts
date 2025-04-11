@@ -17,3 +17,4 @@ export default class TemplaterPlugin extends Plugin {
     save_settings(): Promise<void>;
     load_settings(): Promise<void>;
 }
+//# sourceMappingURL=main.d.ts.map

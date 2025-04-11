@@ -40,3 +40,4 @@ declare module "obsidian" {
     }
 }
 export {};
+//# sourceMappingURL=types.d.ts.map

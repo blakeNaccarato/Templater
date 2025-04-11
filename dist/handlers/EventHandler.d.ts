@@ -12,3 +12,4 @@ export default class EventHandler {
     update_trigger_file_on_creation(): void;
     update_file_menu(): void;
 }
+//# sourceMappingURL=EventHandler.d.ts.map

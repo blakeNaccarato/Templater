@@ -16,3 +16,4 @@ export declare class FileSuggest extends TextInputSuggest<TFile> {
     renderSuggestion(file: TFile, el: HTMLElement): void;
     selectSuggestion(file: TFile): void;
 }
+//# sourceMappingURL=FileSuggester.d.ts.map

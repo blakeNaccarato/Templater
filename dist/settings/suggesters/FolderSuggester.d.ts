@@ -6,3 +6,4 @@ export declare class FolderSuggest extends TextInputSuggest<TFolder> {
     renderSuggestion(file: TFolder, el: HTMLElement): void;
     selectSuggestion(file: TFolder): void;
 }
+//# sourceMappingURL=FolderSuggester.d.ts.map

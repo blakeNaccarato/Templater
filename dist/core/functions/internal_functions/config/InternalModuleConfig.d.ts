@@ -8,3 +8,4 @@ export declare class InternalModuleConfig extends InternalModule {
     teardown(): Promise<void>;
     generate_object(config: RunningConfig): Promise<Record<string, unknown>>;
 }
+//# sourceMappingURL=InternalModuleConfig.d.ts.map

@@ -14,3 +14,4 @@ export declare class SuggesterModal<T> extends FuzzySuggestModal<T> {
     onChooseItem(item: T): void;
     openAndGetValue(resolve: (value: T) => void, reject: (reason?: TemplaterError) => void): Promise<void>;
 }
+//# sourceMappingURL=SuggesterModal.d.ts.map

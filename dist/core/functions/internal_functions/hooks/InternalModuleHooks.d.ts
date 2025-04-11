@@ -8,3 +8,4 @@ export declare class InternalModuleHooks extends InternalModule {
     teardown(): Promise<void>;
     generate_on_all_templates_executed(): (callback_function: () => unknown) => void;
 }
+//# sourceMappingURL=InternalModuleHooks.d.ts.map

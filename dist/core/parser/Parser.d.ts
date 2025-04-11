@@ -3,3 +3,4 @@ export declare class Parser {
     init(): Promise<void>;
     parse_commands(content: string, context: Record<string, unknown>): Promise<string>;
 }
+//# sourceMappingURL=Parser.d.ts.map

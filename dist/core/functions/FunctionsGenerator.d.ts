@@ -17,3 +17,4 @@ export declare class FunctionsGenerator implements IGenerateObject {
     additional_functions(): Record<string, unknown>;
     generate_object(config: RunningConfig, functions_mode?: FunctionsMode): Promise<Record<string, unknown>>;
 }
+//# sourceMappingURL=FunctionsGenerator.d.ts.map
