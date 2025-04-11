@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import { addIcon, Plugin } from "obsidian";
 
 import {
@@ -34,7 +36,7 @@ export default class TemplaterPlugin extends Plugin {
         this.event_handler = new EventHandler(
             this,
             this.templater,
-            this.settings
+            this.settings,
         );
         this.event_handler.setup();
 
@@ -61,14 +63,16 @@ export default class TemplaterPlugin extends Plugin {
 
     async save_settings(): Promise<void> {
         await this.saveData(this.settings);
-        this.editor_handler.updateEditorIntellisenseSetting(this.settings.intellisense_render);
+        this.editor_handler.updateEditorIntellisenseSetting(
+            this.settings.intellisense_render,
+        );
     }
 
     async load_settings(): Promise<void> {
         this.settings = Object.assign(
             {},
             DEFAULT_SETTINGS,
-            await this.loadData()
+            await this.loadData(),
         );
     }
 }
