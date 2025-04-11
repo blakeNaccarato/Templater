@@ -15,7 +15,6 @@ tests/**/*.js
 node_modules
 
 # build
-main.js
 main.test.js
 *.js.map
 
